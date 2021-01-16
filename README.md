@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 2020.08 / 오픈소스 컨트리뷰톤 : Tensorflow lite for Microcontroller 프로젝트 / 특별상
 - 2020.07 / Microsoft와 함께하는 Azure Chatbot 경진대회 / 노력상
 
-### Activity
+### Career
 
 - 한국전자통신연구원(ETRI), Object Detection & LightweightDL, 2021.01 - 2021.02
 - 아이와즈(Iwaz), NLP Data Preprocessing & Visualization, 2020.07 - 2020.08
