@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### Project
 
-- 2020.11 / 2020 CNU Engineering Fair : 프라이버시 보호 딥러닝 서비스  / 장려상
-- 2020.08 / 오픈소스 컨트리뷰톤 : Tensorflow lite for Microcontroller 프로젝트 / 특별상
-- 2020.07 / Microsoft와 함께하는 Azure Chatbot 경진대회 / 노력상
+- 2020.11 / 2020 CNU Engineering Fair : 프라이버시 보호 딥러닝 서비스  / 장려상 / [Github](https://github.com/pmcsh04/PrivacyDL) 
+- 2020.08 / 오픈소스 컨트리뷰톤 : Tensorflow lite for Microcontroller 프로젝트 / 특별상 / [Github](https://github.com/yunho0130/tensorflow-lite)
+- 2020.07 / Microsoft와 함께하는 Azure Chatbot 경진대회 / 노력상 / [Github](https://github.com/hazagu/KCC2020_Chatbot)
 
 ### Career
 
