@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Career
 
-- 한국전자통신연구원(ETRI), Data Visualization using MFC/C++, 2021.01 - 2021.02
+- 한국전자통신연구원(ETRI), Data Visualization using MFC/C++, 2021.01 - 2021.02 / [Github](https://github.com/pmcsh04/Visualization_MFC)
 - 아이와즈(Iwaz), NLP Data Preprocessing & Flask & Visualization, 2020.07 - 2020.08 / [Github](https://github.com/pmcsh04/Iwaz_intern)
 - 케이엘정보통신, SDP(Software Defined Perimeter) Architecture, 2019.12 - 2020.02
 
