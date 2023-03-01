@@ -1,6 +1,11 @@
 # Seunghyeon Cho	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpmcsh04&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+👋 Hello My name is Seunghyeon cho.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pmcsh04)](https://github.com/anuraghazra/github-readme-stats)
+<center><h2>&#128202;My GitHub and BOJ Stats</h2></center>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmcsh04&hide=prs,issues&count_private=true&show_icons=true&theme=synthwave">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pmcsh04">
+</p>
 
 <!--
 **pmcsh04/pmcsh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
