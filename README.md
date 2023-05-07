@@ -3,7 +3,7 @@
 
 <center><h2>&#128202;My GitHub and BOJ Stats</h2></center>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmcsh04&hide=prs,issues&count_private=true&show_icons=true&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api?username=seunghyeon-cho&hide=prs,issues&count_private=true&show_icons=true&theme=synthwave">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pmcsh04">
 </p>
 
